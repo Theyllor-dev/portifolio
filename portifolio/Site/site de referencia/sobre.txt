@@ -1,0 +1,13 @@
+workshop é de IA ok
+
+coloquei uma imagem no centro logo após coloquei titulo e paragrafo 
+sobre o workshop. ok
+formulario de inscrição. ok
+card com a programção. ok
+rodapé e rede social. ok
+
+
+ARRUMAR UM NAVBAR
+ARRUMA OS CARD 
+FORMUARIO
+MELHORAR O FOOLTER
