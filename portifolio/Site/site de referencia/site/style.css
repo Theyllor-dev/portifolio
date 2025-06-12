@@ -104,6 +104,15 @@ p{
     color: #ff491b;
     transition: 1s;
 }
+#btn-span{
+    color: #ffffff;
+    background-color: #ffffff1f;
+}
+#btn-span:hover{
+    background-color: #ff7b00;
+    color: #ffffff00;
+    transition: 1s;
+}
 .Segundo-main{
     background-color: rgb(0, 0, 0);
     width: 100%;
