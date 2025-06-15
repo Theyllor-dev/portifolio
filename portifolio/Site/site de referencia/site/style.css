@@ -120,3 +120,86 @@ p{
     margin-top: 64%;
     height: 85%;
     }
+.Segundo-main{
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    position: absolute;
+    margin-top: 64%;
+    height: 85%;
+    }
+    .divisão{
+    width: 100%;
+    background-color: #c62800;
+    position: absolute;
+    height: 4%;
+    margin-top: -9%;
+    z-index: 1;
+    }
+.card {
+  width: 320px;
+  height: 350px;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(12px);
+  border-radius: 15px;
+  box-shadow: 0 0 20px #ff550066, 0 0 40px #ff550022;
+  padding: 20px;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+  text-align: center;
+  z-index: 1;
+}
+
+.card:hover {
+  transform: scale(1.05) rotateX(5deg) rotateY(5deg);
+  box-shadow: 0 0 25px #ff5500aa, 0 0 50px #ff550055;
+}
+.container-cards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  gap: 60px;
+}
+.ESCRITA-CARD{
+       font-size: 19px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    margin-top: 256px;
+    color: white;
+}
+.card p{
+    font-size: 12px;
+}
+.card h2{
+    font-size: 20px;
+    position: relative;
+    top: -12px;
+}
+.terceiro-main{
+       background-color: rgb(0, 0, 0);
+    width: 100%;
+    position: absolute;
+    margin-top: 113%;
+    height: 85%;
+}
+.escrita-main2{
+    width: 48%;
+    margin-left:auto;
+    margin-right: auto;
+    font-size: 37px;
+    text-align: center;
+    margin-top: 10%;
+   
+}
+.terceiro-main p{
+    font-size: 18px;
+}
+#btn-main2{
+    width: 15%;
+    position: absolute;
+    left: 42%;
+    top: 58%;
+}
